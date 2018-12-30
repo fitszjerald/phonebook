@@ -9,6 +9,7 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
     <?php
     include_once "database.php";
@@ -19,7 +20,7 @@
         <br>
         <div class="row">
             <div class="col-lg-12">
-                <div class="panel panel-default">
+                <div class="panel panel-default" style="background-color: rgba(202,202,202,0.41)">
                     <div class="panel-heading">
                         <h3 class="panel-title">phone book</h3>
                     </div>

@@ -14,6 +14,7 @@ $result = $connection->query($query);
         <title>Document</title>
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/bootstrap-theme.min.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
         <div class="container" >
@@ -31,6 +32,7 @@ $result = $connection->query($query);
                                     <th>number</th>
                                     <th>group Name</th>
                                 </thead>
+                                <tbody>
                                 <?php
 
                                 if(!$result){

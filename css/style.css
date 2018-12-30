@@ -1,0 +1,10 @@
+.panel-title{
+    color: white;
+}
+.panel-heading{
+    background-image: none!important;
+    background-color: #444444!important;
+}
+tr {
+    background-color: white;
+}
