@@ -60,8 +60,8 @@
                                         </select>
                                     </div>
                                     <div class="form-group">
-                                        <input class="btn btn-info" type="submit" value="save">
-                                        <input class="btn btn-warning" type="reset">
+                                        <input class="btn-lg btn-info" type="submit" value="save">
+                                        <input class="btn-lg btn-warning" type="reset">
                                     </div>
                                 </form>
                             </div>
